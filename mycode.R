@@ -5,3 +5,4 @@ myfunction <- function(){
 second <- function(x){
       x + rnorm(length(x))
 }
+a<-matrix(1:20,2,5)
